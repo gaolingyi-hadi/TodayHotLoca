@@ -1,24 +1,13 @@
-# tools-me
+# 今日热点
 
-## Project setup
+一个在本地才能使用的项目, 可以查看今日热点
+
+## 第一次运行该项目
+```
+npm go
+```
+### 或者
 ```
 npm install
+npm start
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
